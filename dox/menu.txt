@@ -3,7 +3,7 @@
 <channels>
 
 <channel>
-<name>[COLOR red]MusicChoice Radio[/COLOR]</name>
+<name>[COLOR purple]MusicChoice [COLOR blue]Radio[/COLOR]</name>
 <externallink>http://185.186.244.251/JewRepo/xml/list-mc.txt</externallink>
 <info></info>
 <thumbnail></thumbnail>
