@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 	
-	<addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.0" provider-name="JewBMX">
+<addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.0" provider-name="JewBMX">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -62,17 +62,18 @@
             <platform>all</platform>
             <genre>movies,usa</genre>
         </extension>
-    </addon>
-	
-	<addon id="plugin.video.beardedbandit" name="Bearded Bandit" version="1.0" provider-name="JewBMX">
+</addon>
+
+<addon id="plugin.video.beardedbandit" name="Bearded Bandit" version="1.5" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
-        <import addon="script.module.universalscrapers" />
-        <import addon="script.module.python.koding.aio" />
-        <import addon="script.module.beautifulsoup" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.addon.common" />
-        <import addon="script.module.xmltodict" />
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <import addon="script.module.feedparser" version="5.1.3" />
         <import addon="script.module.dateutil" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
         <import addon="script.module.resolveurl" />
@@ -92,7 +93,7 @@
     </extension>
 </addon>
 	
-	<addon id="plugin.program.jewpair" name="JewPair" version="1.0" provider-name="JewBMX">
+<addon id="plugin.program.jewpair" name="JewPair" version="1.0" provider-name="JewBMX">
 	  <requires>
 	    <import addon="xbmc.python" version="2.19.0"/>
 	  </requires>
@@ -106,9 +107,9 @@
 		<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
 	        <license>Free the People!, Free the World!!</license>
 	  </extension>
-	</addon>
+</addon>
 
-	<addon id="plugin.program.jewcleaner" name="JewCleaner" version="1.0" provider-name="JewBMX">
+<addon id="plugin.program.jewcleaner" name="JewCleaner" version="1.0" provider-name="JewBMX">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -185,15 +186,16 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.toontopia" name="ToonTopia" version="1.0" provider-name="JewBMX">
+<addon id="plugin.video.toontopia" name="ToonTopia" version="1.1" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
-        <import addon="script.module.universalscrapers" />
-        <import addon="script.module.python.koding.aio" />
-        <import addon="script.module.beautifulsoup" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.addon.common" />
-        <import addon="script.module.xmltodict" />
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <import addon="script.module.feedparser" version="5.1.3" />
         <import addon="script.module.dateutil" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
         <import addon="script.module.resolveurl" />
@@ -205,7 +207,7 @@
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
         <summary lang="en">CarToons and Anime.</summary>
-        <description lang="en">Everything Childish.</description>
+        <description lang="en">Everything Childish From Bearded Bandit.</description>
         <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
         <license>Free the People!, Free the World!!</license>
         <platform>all</platform>
