@@ -1,0 +1,3 @@
+v1.0
+- Initial Version.
+- Modified The Normal Skin Names to be Easy for Everyone.
