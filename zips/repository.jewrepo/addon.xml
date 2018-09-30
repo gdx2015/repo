@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    <addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.3" provider-name="JewBMX">
+    <addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.4" provider-name="JewBMX">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
