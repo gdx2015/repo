@@ -1,4 +1,10 @@
 v1.1
 - Initial Version.
-- Forked from Yoda.
-(Bored and Curious so I Dabbled)
+- Forked from Yoda and modified to my liking.
+
+v1.2
+- Cleaned up random stuff and updated providers.
+- Tested every provider on Oct. 4th 2018.
+- Removed all the ones that were not working.
+- Disabled a few providers in settings that are ddos protected.
+- Disabled a few more providers in settings that were slow or unavailable.
