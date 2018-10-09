@@ -1,7 +1,14 @@
-v1.1
-- Initial Version.
-- Forked from Yoda and modified to my liking.
-(Thanks to any devs that helped design any part of this.)
+
+v1.4
+- Added 11 more providers that i fixed and 5 that i forgot in a folder.
+(Added them to the addon settings also enabled.)
+
+v1.3
+- Added more providers that i fixed.
+- Removed all the providers that dont work for my device.
+(Stored in my pocket to fix in the future.)
+- All providers are enabled in the settings and working.
+(Removed the provider settings that matched ones i removed.)
 
 v1.2
 - Cleaned up random stuff and updated providers.
@@ -10,9 +17,8 @@ v1.2
 - Disabled a few providers in settings that are ddos protected.
 - Disabled a few more providers in settings that were slow or unavailable.
 
-v1.3
-- Added more providers that i fixed.
-- Removed all the providers that dont work for my device.
-(Stored in my pocket to fix in the future.)
-- All providers are enabled in the settings and working.
-(Removed the provider settings that matched ones i removed.)
+v1.1
+- Initial Version.
+- Forked from Yoda and modified to my liking.
+(Thanks to any devs that helped design any part of this.)
+

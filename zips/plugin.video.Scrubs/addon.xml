@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Scrubs" version="1.3" name="[COLOR orange]Scrubs[/COLOR]" provider-name="JewBMX">
+<addon id="plugin.video.Scrubs" version="1.4" name="[COLOR orange]Scrubs[/COLOR]" provider-name="JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.Scrubs" />
@@ -24,6 +24,6 @@
 			<icon>icon.jpg</icon>
 			<fanart>fanart.png</fanart>
 		</assets>
-		<news>All Providers Tested and Working (Oct. 8th 2018.)</news>
+		<news>All 80+ Providers Tested and Working (Oct. 8th 2018.)</news>
 	</extension>
 </addon>
