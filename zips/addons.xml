@@ -196,7 +196,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.Scrubs" version="1.4" name="[COLOR orange]Scrubs[/COLOR]" provider-name="JewBMX">
+<addon id="plugin.video.Scrubs" version="1.5" name="[COLOR orange]Scrubs[/COLOR]" provider-name="JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.Scrubs" />
@@ -212,7 +212,7 @@
 	<extension point="xbmc.service" library="service.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">A Clean Source To Dirty Things...</summary>
-        <description lang="en">Movies, Tv Shows, and What Not.</description>
+        <description lang="en">Movies, Tv Shows, and What Not.[CR]All the providers are enabled except darewatch. [CR]Instead of being confused with all those choices half enabled i decided to go another way. [CR]You disable the ones you dont like and let me handle getting rid of broken providers. [CR]How it should be :)</description>
         <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
         <license>Free the People!, Free the World!!</license>
         <platform>all</platform>
@@ -221,11 +221,11 @@
 			<icon>icon.jpg</icon>
 			<fanart>fanart.png</fanart>
 		</assets>
-		<news>All 80+ Providers Tested and Working (Oct. 8th 2018.)</news>
+		<news>Total CleanUp of Providers, Checked and all good as of 10-12-2018. [CR]Settings updated to match provider list. [CR]Error found on Kodi 18: Settings get all messed up and scrambled. [CR] (Limits those users big time lol.) [CR]Disabled darewatch provider for that reason and because its sloppy. [CR]Added a default fanart.tv api key in the settings for ya.</news>
 	</extension>
 </addon>
 
-<addon id="script.module.Scrubs" name="[COLOR orange]Scrubs Module[/COLOR]" version="1.4" provider-name="JewBMX">
+<addon id="script.module.Scrubs" name="[COLOR orange]Scrubs Module[/COLOR]" version="1.5" provider-name="JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.requests" />
