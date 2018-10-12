@@ -1,4 +1,16 @@
 
+v1.5
+- Total CleanUp of Providers, Checked and all good as of 10-12-2018.
+- Settings updated to match provider list.
+- Error found on Kodi 18: Settings get all messed up and scrambled.
+(Limits those users big time lol.)
+- Disabled darewatch provider for that reason and because its sloppy.
+- Added a default fanart.tv api key in the settings for ya.
+
+v1.4.5
+- Updated the search code to work on Kodi 18 thanks to doko's github.
+(was lazy and just uploaded this little update as 1.4 because who cares about 18)
+
 v1.4
 - Added 11 more providers that i fixed and 5 that i forgot in a folder.
 (Added them to the addon settings also enabled.)
