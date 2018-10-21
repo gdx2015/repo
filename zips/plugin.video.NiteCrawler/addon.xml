@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.NiteCrawler" version="1.0" name="[COLOR yellow]NiteCrawler[/COLOR]" provider-name="JewBMX, ToneTone">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.universalscrapers" />
+		<import addon="script.NiteCrawler.artwork" />
+		<import addon="script.NiteCrawler.metadata" />
+        <import addon="script.module.resolveurl"/>
+        <import addon="script.module.metahandler"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.beautifulsoup"/>
+        <import addon="script.module.schism.common"/>
+        <import addon="script.module.futures"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">A Super Small Fork. (Universal Scrapers)</summary>
+        <description lang="en">Movies, Tv Shows, and What Not.[CR]Uses IMDb and Trakt for base.(Mostly)[CR]All the providers are maintained by Universal Scrapers.</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <license>Free the People!, Free the World!!</license>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>Made for Kodi 17.6 but works on Kodi 18(Artwork Issue).[CR]Artwork on Kodi 18 uses Kodi's default images as a fix.</news>
+	</extension>
+</addon>

@@ -1,0 +1,11 @@
+
+v1.0
+- TestRun.
+- Added default images for backups to code.
+(Looks like the normal artwork dont work on Kodi 18 lol)
+- Seems to work fine with Kodi 18.
+(Besides that artwork lmao)
+
+Report any errors or issues by email.
+(jewbmx@gmail.com)
+(Feel free to contact me for any other reason also.)
