@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 	
-<addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.4" provider-name="JewBMX">
+<addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.5" provider-name="JewBMX">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -47,7 +47,7 @@
             <platform>all</platform>
             <genre>movies,usa</genre>
         </extension>
-</addon>
+    </addon>
 
 <addon id="plugin.video.SportsDevil" version="2018.04.11" name="SportsDevil" provider-name="SportsDevil">
   <requires>
