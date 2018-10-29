@@ -220,7 +220,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.Scrubs" version="2.1" name="[COLOR orange]Scrubs[/COLOR]" provider-name="JewBMX">
+<addon id="plugin.video.Scrubs" version="2.2" name="[COLOR orange]Scrubs[/COLOR]" provider-name="JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.Scrubs" />
