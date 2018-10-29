@@ -1,11 +1,13 @@
 
+v2.1
+-Bigfix
+
 v2.0
 - Tested and fixed a few fuckups lol.
 - Decided the new updates earn this thing a freash number.
 (Last public release was 1.5, 1.6-1.8 was released to private)
 (Might have to restore settings to default in the addon)
 (Might have to uninstall the addon and wipe its userdata)
-
 
 v1.6
 - Added Menu Items from NiteCrawler and PlugIns.
