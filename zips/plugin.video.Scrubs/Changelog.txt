@@ -1,4 +1,20 @@
 
+v2.0
+- Tested and fixed a few fuckups lol.
+- Decided the new updates earn this thing a freash number.
+(Last public release was 1.5, 1.6-1.8 was released to private)
+(Might have to restore settings to default in the addon)
+(Might have to uninstall the addon and wipe its userdata)
+
+
+v1.6
+- Added Menu Items from NiteCrawler and PlugIns.
+- Added NiteCrawlers UserList Collection also.
+- Cleaned Providers and Changed the Provider Settings Layout.
+- Changed More of the Settings Layout and Settings.
+(Might have to restore settings to default in the addon)
+(Might have to uninstall the addon and wipe its userdata)
+
 v1.5
 - Total CleanUp of Providers, Checked and all good as of 10-12-2018.
 - Settings updated to match provider list.
