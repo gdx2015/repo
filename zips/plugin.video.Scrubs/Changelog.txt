@@ -1,5 +1,12 @@
 
-v2.1
+v2.3
+- Added a new url for  'In Theaters'.
+- Renamed old 'In Theaters' option and added it below the new one in movies.
+- Added a few scrapers back that were down for repairs.
+- Added a few more things in from NiteCrawler that were still being tested.
+- Moved 'Featured' options out of the 'My' sections to where they really belong.
+
+v2.1 and v2.2
 -Bigfix
 
 v2.0
