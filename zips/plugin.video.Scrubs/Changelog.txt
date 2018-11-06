@@ -1,4 +1,11 @@
 
+v2.4
+- Added Show Changelog option to the main menu.
+- Added a few more providers and added proper settings for them.
+- Fixed a couple providers, also added a few spare domains to some others.
+- Fixed a couple lists that didnt work proper.
+(If ya find any more lists that need adjusting let me know.)
+
 v2.3
 - Added a new url for  'In Theaters'.
 - Renamed old 'In Theaters' option and added it below the new one in movies.
