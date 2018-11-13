@@ -1,4 +1,8 @@
 
+v2.5
+- Added a couple new providers and their settings.
+(Also Fixed a few that were broken.)
+
 v2.4
 - Added Show Changelog option to the main menu.
 - Added a few more providers and added proper settings for them.
