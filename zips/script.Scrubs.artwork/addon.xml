@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.Scrubs.artwork" version="1.2" name="[COLOR orange]Scrubs Artwork[/COLOR]" provider-name="JewBMX">
+<addon id="script.Scrubs.artwork" version="1.3" name="[COLOR red]Scrubs Artwork(Uninstall)[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
     </requires>
     <extension point="xbmc.python.module" library="lib" />
     <extension point="xbmc.addon.metadata">
-        <summary>Scrubs Artwork</summary>
-        <description>Scrubs Artwork</description>
+        <summary>Scrubs Artwork(Uninstall)</summary>
+        <description>Scrubs Artwork(Uninstall)</description>
         <platform>all</platform>
         <assets>
             <icon>icon.jpg</icon>
         </assets>
-        <news>Removed a Few Colors and Added Purple. [CR]Also Added TMDB Artwork I Slapped Together.</news>
+        <news>New Addon Name Is Scrubsv2, Install it instead.</news>
     </extension>
 </addon>
