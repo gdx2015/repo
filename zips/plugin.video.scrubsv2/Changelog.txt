@@ -1,4 +1,11 @@
 
+[B][COLOR purple] v2.9 [/COLOR][/B]
+- Fixed up a few providers.
+- Added a couple providers.
+- Removed 2ddl Provider and maybe a couple others. (lol)
+- Fixed a few bugs.
+- Fixed the podcast section. (my bad)
+
 [B][COLOR purple] v2.8 [/COLOR][/B]
 - Added Pair Em in Tools Menu.(Web Browser Needed.)
 - Fixed some Providers.

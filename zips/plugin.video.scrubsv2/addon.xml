@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.scrubsv2" version="2.8" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX">
+<addon id="plugin.video.scrubsv2" version="2.9" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.scrubsv2" />
@@ -24,6 +24,6 @@
             <icon>icon.jpg</icon>
             <fanart>fanart.png</fanart>
         </assets>
-        <news>[B] Total CleanUp of Providers[/B]: Checked and all good as of 12-03-2018. [CR][B] Kodi 18 News[/B]: Setting for theme swap is Fixed. [CR][B] (Please Report Any Issues To Me Directly. Details Are in Settings.)[/B] [CR][B] Added[/B]: Pair Em in Tools, A few New Providers and the Settings for em. [CR][B] Fixed[/B]: A few Providers. [CR][B] Removed[/B]: 2 Broken Providers.</news>
+        <news>[B] Total CleanUp of Providers[/B]: Checked and all good as of 12-13-2018. [CR][B] (Please Report Any Issues To Me Directly. Details Are in Settings.)[/B] </news>
     </extension>
 </addon>
