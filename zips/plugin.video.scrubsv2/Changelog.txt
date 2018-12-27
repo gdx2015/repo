@@ -1,4 +1,10 @@
 
+[B][COLOR purple] v3.0 [/COLOR][/B]
+- Provider Cleanup.
+- Added a few providers.
+- Added Invictus provider. (The New 2ddl)
+(Props to whoever made the scraper.)
+
 [B][COLOR purple] v2.9 [/COLOR][/B]
 - Fixed up a few providers.
 - Added a couple providers.
