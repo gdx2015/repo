@@ -1,4 +1,10 @@
 
+[B][COLOR purple] v3.1 [/COLOR][/B]
+- Added a couple new providers.
+- Fixed a few providers.
+- Removed some broken providers.
+- Fixed Broken urls for a few Plugins.
+
 [B][COLOR purple] v3.0 [/COLOR][/B]
 - Provider Cleanup.
 - Added a few providers.
