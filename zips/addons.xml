@@ -284,7 +284,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.scrubsv2" version="3.0" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX">
+<addon id="plugin.video.scrubsv2" version="3.1" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.scrubsv2" />
@@ -309,11 +309,11 @@
             <icon>icon.jpg</icon>
             <fanart>fanart.png</fanart>
         </assets>
-        <news>[B] Total CleanUp of Providers[/B]: Checked and all good as of 12-27-2018. [CR][B] (Please Report Any Issues To Me Directly. Details Are in Settings.)[/B] </news>
+        <news>[B] Total CleanUp of Providers[/B]: Checked and all good as of 12-31-2018. [CR][B] (Please Report Any Issues To Me Directly. Details Are in Settings.)[/B] </news>
     </extension>
 </addon>
 
-<addon id="script.module.scrubsv2" version="2.8" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX">
+<addon id="script.module.scrubsv2" version="2.9" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
