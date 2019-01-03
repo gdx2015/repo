@@ -1,4 +1,10 @@
 
+[B][COLOR purple] v3.2 [/COLOR][/B]
+- Moved movietube setting up incase it has issues again.
+- Added a few providers ToneTone was sitting on.
+- Added tunes plugin.
+- Added a few ResolveURL Auth Shortcuts to Settings.
+
 [B][COLOR purple] v3.1 [/COLOR][/B]
 - Added a couple new providers.
 - Fixed a few providers.
