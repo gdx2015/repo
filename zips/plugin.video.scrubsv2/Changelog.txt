@@ -1,4 +1,13 @@
 
+[B][COLOR purple] v3.3 [/COLOR][/B]
+- Added 3 new Providers
+- Removed 5 or so Providers that sucked ass or broke.
+- Added IPTV Plugin. (Some options use plugin.video.SportsDevil)
+- Added MusicChoice Plugin.
+- Added a hidden Adult Plugin. (nav.xxx)
+(Made plugin.video.SportsDevil optional so it can be uninstalled if not wanted.)
+(feel free to contact me if you find any issues with this update.)
+
 [B][COLOR purple] v3.2 [/COLOR][/B]
 - Moved movietube setting up incase it has issues again.
 - Added a few providers ToneTone was sitting on.
