@@ -1,3 +1,19 @@
+[B][COLOR grey] TempNews [/COLOR][/B]
+[1.A] I plan on removing random Providers that i consider to be trash.
+[1.B] If you would like any removed or wanna make sure some stay let me know.
+[2.A] There are no known issues or requests for content/features as of now.
+[2.B] Do you use non english Providers? Let me know which ones need fixed or removed.
+(This TempNews will be removed from here on the next update.)
+
+[B][COLOR purple] v3.4 [/COLOR][/B]
+- Added 2 Dbird Providers that Tempest fixed or made.
+- Added 4 Providers back that are fixed/working again.
+- Removed cartoonhd because its a POS and tired of it.
+- Removed 3 Providers with sites down.
+- Removed 2 more Providers that are broken.
+(Probably wont fix em because im sick of em too lol.)
+(Movietube which was for trailers is now removed for good too. isnt needed.)
+(If you have a Dbird issue tell me in detail because i dont use any.)
 
 [B][COLOR purple] v3.3 [/COLOR][/B]
 - Added 3 new Providers
