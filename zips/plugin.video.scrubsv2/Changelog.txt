@@ -1,9 +1,9 @@
-[B][COLOR grey] TempNews [/COLOR][/B]
-[1.A] I plan on removing random Providers that i consider to be trash.
-[1.B] If you would like any removed or wanna make sure some stay let me know.
-[2.A] There are no known issues or requests for content/features as of now.
-[2.B] Do you use non english Providers? Let me know which ones need fixed or removed.
-(This TempNews will be removed from here on the next update.)
+
+[B][COLOR purple] v3.5 [/COLOR][/B]
+- Updated CFscrape modules.
+- Moved 7 Providers to a temp folder that are down or have issues.
+(Im only pushing this update as a quick patch for the CFscrape issue.)
+(This update has not been tested fully so report any issues or whatnot.)
 
 [B][COLOR purple] v3.4 [/COLOR][/B]
 - Added 2 Dbird Providers that Tempest fixed or made.
