@@ -1,4 +1,11 @@
 
+[B][COLOR purple] v3.6 [/COLOR][/B]
+- Small module tweaks.
+- Cleaned up random Providers.
+- Added a few fixed Providers.
+- Removed Provider watchfreemovie.
+- Moved a few more Providers to the Temp folder.
+
 [B][COLOR purple] v3.5 [/COLOR][/B]
 - Updated CFscrape modules.
 - Moved 7 Providers to a temp folder that are down or have issues.
