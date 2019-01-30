@@ -1,4 +1,8 @@
 
+[B][COLOR purple] v3.7 [/COLOR][/B]
+- Updated the Settings.
+(Attempt to fix some kodi 18 bugs.)
+
 [B][COLOR purple] v3.6 [/COLOR][/B]
 - Small module tweaks.
 - Cleaned up random Providers.
