@@ -1,4 +1,10 @@
 
+[B][COLOR purple] v3.8 [/COLOR][/B]
+- Updated the Settings.
+(Attempt to fix some kodi 18 bugs.)
+(Moved some things from the Nav tab back to the General tab.)
+(Might cause issues or errors, sorry about it lol its for the best.)
+
 [B][COLOR purple] v3.7 [/COLOR][/B]
 - Updated the Settings.
 (Attempt to fix some kodi 18 bugs.)
