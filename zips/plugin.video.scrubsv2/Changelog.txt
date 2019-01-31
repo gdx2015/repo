@@ -1,13 +1,19 @@
 
+[B][COLOR purple] v3.9 [/COLOR][/B]
+- Updated the Settings. (Fix for Kodi 18 Bugs.)
+- Moved Provider settings around to fix a big issue/error.
+- Changed the Trakt Auth options name to make it show for 18.
+(Providers are now in 3 tabs instead of 1.)
+(new tabs might cause issues with something else in the addon.)
+(report any errors or issues to me for a speedy fix.)
+
 [B][COLOR purple] v3.8 [/COLOR][/B]
-- Updated the Settings.
-(Attempt to fix some kodi 18 bugs.)
+- Updated the Settings. (Attempt to fix some kodi 18 bugs.)
 (Moved some things from the Nav tab back to the General tab.)
 (Might cause issues or errors, sorry about it lol its for the best.)
 
 [B][COLOR purple] v3.7 [/COLOR][/B]
-- Updated the Settings.
-(Attempt to fix some kodi 18 bugs.)
+- Updated the Settings. (Attempt to fix some kodi 18 bugs.)
 
 [B][COLOR purple] v3.6 [/COLOR][/B]
 - Small module tweaks.
