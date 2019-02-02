@@ -1,3 +1,18 @@
+[B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
+(Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
+
+[B][COLOR purple] v4.0 [/COLOR][/B]
+- Removed some useless Providers and broken ones.
+- Updated some Providers code. (Most have "valid" check now.)
+(Can enable some spare Providers now without worryin about 200+ results lol.)
+- Added vshare.io results to the craptcha list because they rarely work for me.
+(Wanna see the hidden results or more? enable 'Hosters with captchas' in the Settings.)
+- Finished adding the auto resume option, still testing as well.
+- Added the resume fix in for kodi 18, seems a lil glitchy at times.
+(this fix caused issues for some devices running kodi 17 but too bad now that 18 has taken over.)
+- Updated the code for trakt.user in the settings.
+(Now you can see your username to show you are auth'D.)
+[B][COLOR orange] (I am now running Kodi 18 on all devices so support for any other versions will be limited. all focus will be on 18.) [/COLOR][/B]
 
 [B][COLOR purple] v3.9 [/COLOR][/B]
 - Updated the Settings. (Fix for Kodi 18 Bugs.)
