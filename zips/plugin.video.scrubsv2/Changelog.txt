@@ -1,7 +1,16 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.1 [/COLOR][/B]
+- Updated the Resume fix for Kodi 18, it now works for 17 and 18 without errors.
+- Added a Trailer fix for crashing from trailers via info menu.
+- Removed the Trakt resume setting because i decided it isnt needed or worth doing lol.
+(Last update for the week lol, sorry for em.)
+(Dont know of anymore errors or issues at the moment.)
+(Thanks to Tempest, Host505, Bugatsinho, and Doko.)
+
 [B][COLOR purple] v4.0 [/COLOR][/B]
+- Fixed a little blonde moment in the settings code that was tossing errors in the debug.
 - Removed some useless Providers and broken ones.
 - Updated some Providers code. (Most have "valid" check now.)
 (Can enable some spare Providers now without worryin about 200+ results lol.)
