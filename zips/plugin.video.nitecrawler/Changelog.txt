@@ -1,0 +1,28 @@
+[B][COLOR grey](Contact me about any errors, issues, or even for help.)
+(https://github.com/jewbmx/repo/issues)(jewbmx@gmail.com)
+(Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
+
+[B][COLOR yellow] v1.3 [/COLOR][/B]
+- Updated In Theaters and a few others.
+- Renamed addon to lowercase. (fixes artwork issue.)
+- A bunch of fixes for Kodi 18.
+- Added auto resume setting.
+(Now Kodi 18 approved.)
+(Sorry if the name change caused any problems.)
+
+[B][COLOR yellow] v1.2 [/COLOR][/B]
+- Added Changelog option to the Main Menu.
+- Added Pair Em in Tools Menu.(Web Browser Needed.)
+- Fixed some plugins.
+- Added and Adjusted Settings for Providers Tab.
+
+[B][COLOR yellow] v1.1 [/COLOR][/B]
+(Dont remember lol)
+
+[B][COLOR yellow] v1.0 [/COLOR][/B]
+- TestRun.
+- Added default images for backups to code.
+(Looks like the normal artwork dont work on Kodi 18 lol)
+- Seems to work fine with Kodi 18.
+(Besides that artwork lmao)
+
