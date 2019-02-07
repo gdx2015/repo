@@ -1,6 +1,25 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2 [/COLOR][/B]
+**Note: the people search option for shows is most likely still broken.**
+-Added Tempest version of DownFlix.
+(DownFlix is the new 1080pMovie aka watchHDmovie)
+- Added Portalciyiz to Foreign Providers.
+(Turkish version of DownFlix, 1080pMovie, or watchHDmovie)
+- Added a few new and fixed Providers.
+- Added Torrent Support even tho i got no use for it. (thanks to eggman for the info and code.)
+- Added 4 Torrent Scrapers/Providers to test with.
+- Made some random code changes mostly to cleanup or speedup.
+- Added some code to make premiumize.me results say PM instead.
+- Changed a few menu items like the search layout, and the tools menu.
+(Careful i moved the cache tools around too lol.)
+- Removed some broken shortcuts to settings tabs.
+(Easiest way to fix that kodi 18 bug lmao.)
+- Small bugfix for 'play' code that has been making things slow lol.
+- Small bugfix for busydialog.
+(Might of done more changes but i been too high to keep track of em.)
+
 [B][COLOR purple] v4.1 [/COLOR][/B]
 - Updated the Resume fix for Kodi 18, it now works for 17 and 18 without errors.
 - Added a Trailer fix for crashing from trailers via info menu.
