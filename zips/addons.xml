@@ -319,7 +319,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.scrubsv2" version="3.8" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX">
+<addon id="script.module.scrubsv2" version="3.9" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
