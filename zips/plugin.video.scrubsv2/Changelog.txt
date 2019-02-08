@@ -1,6 +1,17 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.0 [/COLOR][/B]
+(ahh haa 420, take a hit. lol)
+- Fixed my fuckup that was causing double results lol. (Thanks to Host505)
+- Fixed people search option. (finally lol. also thanks to Host505)
+- Renamed yify to ytsam.
+- Fixed the openSettings code and added a couple of the shortcuts back.
+(Thanks to weekendsource)
+- Added a working channels feature.(Also thanks to weekendsource)
+(Made a couple new Scrapers/Providers but didnt add them in yet.)
+(Should see em soon in the next scraper check if they survive testing lol.)
+
 [B][COLOR purple] v4.2 [/COLOR][/B]
 **Note: the people search option for shows is most likely still broken.**
 -Added Tempest version of DownFlix.
