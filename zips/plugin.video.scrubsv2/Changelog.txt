@@ -1,6 +1,10 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.1 [/COLOR][/B]
+- Fixed a couple more errors i caused by adding torrent support.
+- Fixed Channels option yet again. (was too high yesterday lol.)
+
 [B][COLOR purple] v4.2.0 [/COLOR][/B]
 (ahh haa 420, take a hit. lol)
 - Fixed my fuckup that was causing double results lol. (Thanks to Host505)
