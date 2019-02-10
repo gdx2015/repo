@@ -1,6 +1,15 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.2 [/COLOR][/B]
+- Added a few new Providers i made, still testing and might tweak em.
+(1putlocker, deepmovie, moviescouch, putlockersplus.)
+- Added a new Provider Tempest made.
+- Fixed 123movieshubz and added it back.
+- Moved 4 Providers to a temp folder that are down or have issues.
+(Did a light scraper/provider check, meaning they all return results.)
+(Thinking about doing a full source check soon to compare and remove dupes.)
+
 [B][COLOR purple] v4.2.1 [/COLOR][/B]
 - Fixed a couple more errors i caused by adding torrent support.
 - Fixed Channels option yet again. (was too high yesterday lol.)
