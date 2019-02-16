@@ -2,6 +2,9 @@
 (https://github.com/jewbmx/repo/issues)(jewbmx@gmail.com)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR yellow] v1.4 [/COLOR][/B]
+- Small code update for hosted scripts.
+
 [B][COLOR yellow] v1.3 [/COLOR][/B]
 - Updated In Theaters and a few others.
 - Renamed addon to lowercase. (fixes artwork issue.)
