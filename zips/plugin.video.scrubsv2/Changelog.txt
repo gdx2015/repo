@@ -1,6 +1,20 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.3 [/COLOR][/B]
+- Finally uploaded some hosted files to github and updated the code for em.
+(iptv, music choice, and so on.)
+- Added code for TV Show Results in a few Providers that were missing it.
+- Added some new Providers made by me or tempest.
+- Added back a few fixed Providers.
+- Checked and Cleaned all english Providers.
+(NoN-English Providers will forever be ignored, notify me if you want em fixed or removed.)
+- Removed a good chunk of Providers that just suck or are not needed.
+- Removed a few dead Providers.
+- Mod'D a big stack of Providers to improve quality listings and help limit junk results.
+- Updated any and all Settings related to this uodate as always.
+(Feel free to check the Provider Settings and see if any need enabled or disabled.)
+
 [B][COLOR purple] v4.2.2 [/COLOR][/B]
 - Added a few new Providers i made, still testing and might tweak em.
 (1putlocker, deepmovie, moviescouch, putlockersplus.)
