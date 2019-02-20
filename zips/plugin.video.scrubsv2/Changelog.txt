@@ -1,6 +1,16 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+
+[B][COLOR purple] v4.2.4 [/COLOR][/B]
+- Changed Channels title to Sky Channels for the hell of it.
+- Changed the changelog code some.
+- Some random Provider cleaning and fixes.
+- Added some new Providers.
+- Removed some unwanted Providers.
+- Random code cleanup and fixes.
+(420 on the module so Hits lol)
+
 [B][COLOR purple] v4.2.3 [/COLOR][/B]
 - Finally uploaded some hosted files to github and updated the code for em.
 (iptv, music choice, and so on.)
