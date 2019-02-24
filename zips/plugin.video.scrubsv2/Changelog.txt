@@ -1,6 +1,14 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.5 [/COLOR][/B]
+- Full Provider Cleanup and Check.
+(Moved a few having issues or dead to a temp folder for now.)
+- Added Provider moviesjoy. 
+- Added XStreamCDN as a good host. (new resolver you might not have yet lol)
+(Thanks to doko for making the resolver :) its handy.)
+- Fixed a busy/idle bug thing thanks to host505.
+- Few odd changes and code updates.
 
 [B][COLOR purple] v4.2.4 [/COLOR][/B]
 - Changed Channels title to Sky Channels for the hell of it.
