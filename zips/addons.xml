@@ -302,7 +302,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.scrubsv2" version="4.2.5" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX">
+<addon id="plugin.video.scrubsv2" version="4.2.6" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.scrubsv2" />
@@ -331,7 +331,7 @@
     </extension>
 </addon>
 
-<addon id="script.module.scrubsv2" version="4.2.1" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX">
+<addon id="script.module.scrubsv2" version="4.2.2" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
