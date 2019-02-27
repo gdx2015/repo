@@ -1,6 +1,16 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.6 [/COLOR][/B]
+- Added a few new random Providers.
+- Added a couple Providers from Tempest.
+- Updated the debug log code/module.
+- Undid a few code changes that could of caused errors.
+- Removed the documentaries plugin because it was broken.
+(Shits gay and stupid so who gives a damn.)
+- Fixed a few userlists.
+- Moved a userlist i had in the wrong spot lol.
+
 [B][COLOR purple] v4.2.5 [/COLOR][/B]
 - Full Provider Cleanup and Check.
 (Moved a few having issues or dead to a temp folder for now.)
