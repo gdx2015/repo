@@ -1,6 +1,18 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.7 [/COLOR][/B]
+- Moved the Dbird Providers to the Spare Providers section in Settings.
+- Updated the code for Providers watchepisodeseries, swatchseries, watchepisodes4.
+(Now each host has a set limit of 3 results max, and a max cap of 40 total results.)
+- Added Provider mywatchepseries, myswatchseri, mywatchep4.
+(A modified version limited to 1 result per host. and a max cap of 30 total results.)
+- Moved Provider tvbox to a temp folder while its out of order.
+- Added imdb userlist section "Anime n Toons". (not done yet.)
+- Added imdb userlist section "More TV Show Lists".
+- Did a light Provider check/cleaning for all ALT languages.
+(Might be adding the limit on results code to a few more Providers soon.)
+
 [B][COLOR purple] v4.2.6 [/COLOR][/B]
 - Added a few new random Providers.
 - Added a couple Providers from Tempest.
