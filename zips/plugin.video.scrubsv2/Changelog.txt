@@ -1,6 +1,16 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.8 [/COLOR][/B]
+- Cleaned up Providers and some light changes.
+- Moved Troubled Providers to the Temp folder.
+- Removed Provider 123movieslive. (was a dupe.)
+- Some light code updates.
+- Added a couple more Torrent Providers.
+- Removed Provider movie4kto, Replaced as mymovie4k.
+(only uses .lol domain now with way better speed and way less hanging.)
+(also added results limit: 1per host and a max cap of 30 total. not always perfect.)
+
 [B][COLOR purple] v4.2.7 [/COLOR][/B]
 - Moved the Dbird Providers to the Spare Providers section in Settings.
 - Updated the code for Providers watchepisodeseries, swatchseries, watchepisodes4.
