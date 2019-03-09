@@ -117,20 +117,23 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.jewcleaner" name="JewCleaner" version="1.0" provider-name="JewBMX">
+<addon id="script.ezclean" name="EZ Clean" version="1.1" provider-name="People">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" version="1.0.0" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
+     <provides>video executable</provides>
   </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.service" library="service.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Simple All-N-1 Cleaning Tool</summary>
-    <description lang="en">Use to clean, tweak, backup/restore, and all other useful ways to maintain your Kodi.</description>
-    <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-        <license>Free the People!, Free the World!!</license>
+    <summary>A Streamlined Utility Tool for Kodi</summary>
+    <description>No Bloatware, no Nonsense! Just Keep your Kodi sharp and clean with this utility tool... Now with a Custom Wizard.</description>
+    <language></language>
     <platform>all</platform>
+    <license>The MIT License</license>
+    <forum>-</forum>
+    <source>https://github.com</source>
   </extension>
 </addon>
 
