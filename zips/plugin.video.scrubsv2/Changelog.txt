@@ -1,6 +1,16 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.2.9 [/COLOR][/B]
+- Quick Provider check and cleanup.
+- Moved Troubled Providers to the Temp folder.
+- Added info languages setting back with all the usual ones.
+- Made all new language files, Completed translating...
+..Turkish, German, Swedish, Slovenian, Serbian, and Slovak.
+(translated with Google Translate so there might be errors lol.)
+(some stuff isnt coded in language files and wont be translated.)
+(want a language translation fixed just let me know lol.)
+
 [B][COLOR purple] v4.2.8 [/COLOR][/B]
 - Cleaned up Providers and some light changes.
 - Moved Troubled Providers to the Temp folder.
