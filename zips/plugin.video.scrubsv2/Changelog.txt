@@ -1,6 +1,18 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+[B][COLOR purple] v4.3.0 [/COLOR][/B]
+- Quick Provider check, temp'D the troubled.
+- Added a handful of Providers, Fixed a few, and updated a few more.
+- Added modified German language file from a helpful user.
+- Did alot of code cleanup and tweaks.
+- Made a quick toggle for RD and PM in tools and updated it in dev tools as well.
+- updated cfscrape to v1.9.7 from Anorov
+- Added custom color choice setting for unaired epsiodes and seasons.
+- Fixed and added back season 0/specials setting.
+- Moved PM & RD Torrent settings around in settings.
+(they were backwards compared to the resolveurl settings layout lol. OCD moment)
+
 [B][COLOR purple] v4.2.9 [/COLOR][/B]
 - Quick Provider check and cleanup.
 - Moved Troubled Providers to the Temp folder.
