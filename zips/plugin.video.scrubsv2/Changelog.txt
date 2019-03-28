@@ -1,6 +1,24 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+
+- Compressed all addon Artwork files to reduce size some more.
+(also changed a few labeling issues bjgoode was having.)
+- Fixed up some Torrent based problems thanks to my hero Tempest.
+- Added 2 new Torrent Providers made by Tempest.
+- Random forgotten code changes or touchups.
+- Few random color changes for fun.
+- Updated Fanart.tv api. (not the personal one in settings.)
+- Added Trakt OnDeck for MyMovies and MyShows section.
+(tossed in as a custom list so its not really coded in like most addons.)
+- Added a metadataClean fix to stop the debug log spam. (thanks to gaia)
+- Fixed a issue that was making PairEm reopen itself.
+- Updated the Seftings code to mostly match my setup.
+(also fixed a couple lines i coded with caps lol.)
+- Added enable/disable code and settings for Providers.
+- Updated the Settings to a different style to make life easier.
+(contact me if any changes cause problems for ya.)
+
 [B][COLOR purple] v4.3.0 [/COLOR][/B]
 - Quick Provider check, temp'D the troubled.
 - Added a handful of Providers, Fixed a few, and updated a few more.
