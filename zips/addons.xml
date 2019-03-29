@@ -305,7 +305,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.scrubsv2" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX" version="4.3.1">
+<addon id="plugin.video.scrubsv2" name="[COLOR orange]Scrubs v2[/COLOR]" provider-name="JewBMX" version="4.3.2">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.scrubsv2" />
@@ -328,12 +328,15 @@
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshots/screenshot_1.png</screenshot>
+			<screenshot>resources/screenshots/screenshot_2.png</screenshot>
+			<screenshot>resources/screenshots/screenshot_3.png</screenshot>
         </assets>
         <news>[B] Total CleanUp of EN Providers[/B]: Checked and all good as of 02-24-2019. [CR][B] (If a non-en provider is broken let me know, as i dont bother with em.)[/B] [CR][B] (Please Report Any Issues To Me Directly. Details Are in Settings.)[/B] </news>
     </extension>
 </addon>
 
-<addon id="script.module.scrubsv2" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX" version="4.2.7">
+<addon id="script.module.scrubsv2" name="[COLOR orange]Scrubs v2 Module[/COLOR]" provider-name="JewBMX" version="4.2.8">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.beautifulsoup4" />
