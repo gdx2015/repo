@@ -1,6 +1,16 @@
 [B][COLOR grey](Contact me about any errors or issues.)(https://github.com/jewbmx/repo/issues)
 (Also feel free to test anything and tell me what works and what dont.) [/COLOR][/B]
 
+- Ditched all the old color features and added a new one.(Colors are Unaired, Premo, Torr.)
+(Make sure you set the 3 colors up after this update or they will prpbably not work.)
+(Thanks to NixGates for letting me use and tweak his sweet color code.)
+-Added another Torrent Provider made by Tempest.
+- Added Doko's cfscrape.
+- Moved back a bunch of working Providers.
+- Quick Provider Check and Cleanup.
+- Tossed in a couple new Providers i made during tests.
+
+[B][COLOR purple] v4.3.3 [/COLOR][/B]
 - Added a option in Tools to Clear ResolveURL's Cache.
 - Few light updates to some Providers.
 - Moved a couple Providers back to the normal folder for use.
